@@ -1,7 +1,14 @@
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/KumarAshutoshDev/count.svg" alt="Visitor's Count" />
+## ⚡️ Stats
+
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=KumarAshutoshDev&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Ashutosh's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=KumarAshutoshDev&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Ashutosh's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=KumarAshutoshDev&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Ashutosh's Most Used Languages" />
 </div>
+
+<hr>
 <!--
 **KumarAshutoshDev/KumarAshutoshDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
